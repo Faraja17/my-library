@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Faraja17 
-Faraja17
-/
-my-library
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-my-library/read-me-template
-@Faraja17
-Faraja17 Create read-me-template
-Latest commit b2a9e49 now
- History
- 1 contributor
-68 lines (40 sloc)  1.31 KB
-   
 # Title of Project
 
 Descripton: 
@@ -95,16 +66,3 @@ Descripton:
 ## Acknowledgments
 
 I'd like to acknowledge my son and mentor [DeForestt Thompson](https://github.com/DeForestt).  His steadfast support and encouragement keep me motivated!  Thanks for forcing me to use the command-line, Son <3 <3 <3.
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete

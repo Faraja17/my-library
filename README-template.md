@@ -59,9 +59,9 @@ Descripton:
 - 
 ## Author
 
-- Website - [Faraja Thompson](https://faraja17.github.io/my-website/)
-- Frontend Mentor - [@faraja17](https://www.frontendmentor.io/profile/Faraja17)
-- LinkedIn - [Faraja Thompson, M.Ed.](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
+- [My Current Personal Website](https://faraja17.github.io/my-website/)
+- [My Blog: Teacher to Techie](https://faraja17.github.io/)
+- [Faraja Thompson, M.Ed.on LinkedIn](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
 
 ## Acknowledgments
 

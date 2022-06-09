@@ -14,7 +14,6 @@ Descripton:
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-- [The Directions](#frontend-mentor---qr-code-component) 
 
 ## Overview
 
